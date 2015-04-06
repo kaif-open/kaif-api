@@ -4,9 +4,9 @@ kaif Open API 提供開發者在應用程式內串接 API。簡要來說 API 認
 
 ## 相關連結
 
-* [開發指南](https://github.com/kaif-open/kaif-api/wiki)
+* [開發指南 wiki](https://github.com/kaif-open/kaif-api/wiki)
 
-  開發指南說明 kaif OAuth2 的使用，以及 API 的使用簡介。如果 API 有任何使用上問題 ，請在該 github 專案上發 issue。
+  開發指南說明 kaif OAuth2 的使用，以及 API 的使用簡介。如果 API 有任何使用上問題 ，請此專案上發 issue。
 
 * [API 文件](https://kaif.io/sdoc.jsp)
 
