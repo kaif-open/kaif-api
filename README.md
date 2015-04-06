@@ -13,7 +13,7 @@ kaif Open API 提供開發者在應用程式內串接 API。簡要來說 API 認
   列出所有可呼叫的 API，包括相關參數與回傳結果，內容以 Swagger 的方式呈現。(註：API 文件目前只能查看，
   Swagger UI 上提供的測試功能還不能使用。)
 
-* 管理你的應用程式(https://kaif.io/developer/client-app)
+* [管理你的應用程式](https://kaif.io/developer/client-app)
 
   新增與修改你的應用程式，API 串接時需要使用的 client_id 與 client_secret 可在此處查詢。
 
